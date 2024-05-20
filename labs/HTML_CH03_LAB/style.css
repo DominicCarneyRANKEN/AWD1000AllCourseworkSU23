@@ -8,4 +8,16 @@ h1{
 p{
     color: crimson;
 }
-
+h2{
+    color:deepskyblue
+}
+li{
+    color: crimson;
+}
+#wrapper{
+    width: 80%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto; 
+}
