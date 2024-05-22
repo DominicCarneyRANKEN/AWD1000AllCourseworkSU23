@@ -1,5 +1,9 @@
 #jumbotron{
-    background-image: url('PizzaWorldRandomImage.jpg')
+    background-repeat: repeat;
+    background-position: 0%;
+    background-image: url('PizzaCoverPartII.png')
+    
+    
  
     
 }
@@ -7,37 +11,72 @@
     h1{
         color: white;
       
-        text-shadow: 110px 110px 90px;
+        text-shadow: 2px 2px #000000;
+    }
+    h3{
+        color: white;
+
+        text-shadow: 2px 2px #000000;
+      
+       
+    }
+    h2{
+        color: white;
+        text-shadow: 2px 2px #000000;
+
     }
 }
 #jumbotron{
     a{
         color: white;
-        text-shadow: 150px 150px 120px black;
+        text-shadow: 2px 2px  #000000;
+    }
+    p{
+        color:white;
+        text-shadow: 2px 2px #000000;
     }
 }
-
-
-p{
-    height: 300px;
-    margin: 20px;
-    padding: 10px;
-    text-shadow: 90px 90px 90px; 
-    color: white;
+menu{
+    background-color: darkorange
+    
 }
+
+menu{
+    h2{
+        color: greenyellow;
+        text-shadow: 2px 3px 7px #000000;
+        
+    }
+    h3{
+        color: greenyellow;
+        text-shadow: 2px 3px 7px #000000;
+    }
+    p{
+        color: greenyellow;
+        text-shadow: 2px 3px 7px #000000;
+    }
+
+}
+
+
+
+
+
+
+
 
 header{
     background: lightgray;
     h1{
         color:black;
+        
     }
     a{
         color:black;
     }
-#jumbotron h1 {
-    color: white
+
 }
+
 
    
   
-}
