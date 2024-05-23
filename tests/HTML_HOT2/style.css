@@ -58,10 +58,27 @@ menu{
 
 }
 
-map{
-    background-color: lightslategray;
+div{
+    background-color: gray;
+    
     
 }
+
+div{
+    h3{
+        color: lightsteelblue;
+        text-shadow: 2px 3px 7px #000000;
+    }
+}
+footer{
+   background-color: black;
+}
+footer{
+    h2{
+        color: white;
+    }
+}
+
 
 
 
@@ -78,6 +95,9 @@ header{
         color:black;
     }
 
+}
+div{
+    width: 80vw;
 }
 
 
