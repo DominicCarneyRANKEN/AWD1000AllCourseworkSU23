@@ -1,11 +1,40 @@
 h1{
     line-height: 2em;
+    text-align: center;
     font-size: 4;
     color: #ff0047;
 }
 p{
-    font-size: 20px;
+    font-size: 16px;
     line-height: 12em;
     color: rgb(121, 0, 16)
    
+}
+
+#SecondaryHobby p{
+    color: rgba(255, 0, 78, 0.8)
+}
+
+#SoAboutThatSelector{
+    background-color: orange;
+}
+
+p{
+    text-align: center;
+}
+
+#SecondaryHobby p{
+    background-color: yellowgreen; 
+}
+#ForStylingLinks a:hover{
+ color:lime
+}
+#ForStylingLinks{
+    background-color: black;
+}
+#ForStylingLinks a{
+    color:orange
+}
+#ForStylingLinks a input:focus{
+   color: aqua;
 }
