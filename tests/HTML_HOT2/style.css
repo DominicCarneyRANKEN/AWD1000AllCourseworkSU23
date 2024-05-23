@@ -3,99 +3,83 @@
     background-position: 0%;
     background-image: url('PizzaCoverPartII.png')
     
-    
- 
-    
 }
-#jumbotron{
-    h1{
-        color: white;
-      
-        text-shadow: 2px 2px #000000;
-    }
-    h3{
-        color: white;
 
-        text-shadow: 2px 2px #000000;
-      
-       
-    }
-    h2{
-        color: white;
-        text-shadow: 2px 2px #000000;
+#jumbotron h1{
+    color: white;
+    text-shadow: 2px 2px #000000;
+}
 
-    }
+#jumbotron h2{
+    color: white;
+    text-shadow: 2px 2px #000000;
 }
-#jumbotron{
-    a{
-        color: white;
-        text-shadow: 2px 2px  #000000;
-    }
-    p{
-        color:white;
-        text-shadow: 2px 2px #000000;
-    }
+
+#jumbotron h3{
+    color: white;
+    text-shadow: 2px 2px #000000;
 }
+
+#jumbotron a{
+    color: white;
+    text-shadow: 2px 2px #000000;
+}
+
+#jumbotron p{
+    color: white;
+    text-shadow: 2px 2px #000000;
+}
+
+
 menu{
     background-color: darkorange
     
 }
 
-menu{
-    h2{
-        color: greenyellow;
-        text-shadow: 2px 3px 7px #000000;
-        
-    }
-    h3{
-        color: greenyellow;
-        text-shadow: 2px 3px 7px #000000;
-    }
-    p{
-        color: greenyellow;
-        text-shadow: 2px 3px 7px #000000;
-    }
-
+menu h2{
+    color: greenyellow;
+    text-shadow: 2px 3px 7px #000000;
 }
+
+menu h3{
+    color: greenyellow;
+    text-shadow: 2px 3px 7px #000000;
+}
+
+menu p{
+    color: greenyellow;
+    text-shadow: 2px 3px 7px #000000;
+}
+
 
 div{
     background-color: gray;
-    
-    
 }
 
-div{
-    h3{
-        color: lightsteelblue;
-        text-shadow: 2px 3px 7px #000000;
-    }
+div h3{
+    color: lightsteelblue;
+    text-shadow: 2px 3px 7px #000000;
 }
 footer{
    background-color: black;
 }
-footer{
-    h2{
-        color: white;
-    }
+
+footer h2{
+    color: white;
 }
-
-
-
-
-
-
 
 header{
     background: lightgray;
-    h1{
-        color:black;
-        
-    }
-    a{
-        color:black;
-    }
-
 }
+
+header h1{
+    color: black;
+}
+
+header a{
+    color: black;
+}
+
 div{
     width: 80vw;
 }
